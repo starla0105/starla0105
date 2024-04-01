@@ -1,0 +1,185 @@
+body{
+    padding: 0;
+    margin: 0;
+    width: fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Logo{
+    margin-top: 18px;
+    margin-left: 195px;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+}
+.Image{
+    margin-left: 110%;
+    width:600px;
+    height:700px;
+}
+h1{
+   margin-left: 210px;
+   top: 12px;
+   font-size: 10px;
+   position: absolute;
+}
+p1{
+    top: 195px;
+    margin-left: 195px;
+    font-size: 60px;
+    position: absolute;
+    color: #263b4b;
+}
+.Arrow{
+    margin-left: 135px;
+    top: 290px;
+    width: 55px;
+    height: 175px;
+    position: absolute;
+}
+p2{
+   top: 350px;
+   margin-left: 195px;
+   font-size: 18px;
+   color: #6c757c;
+   font-family: Arial;
+   position: absolute;
+}
+h2{
+    font-family: Arial Black;
+    font-size: 12px;
+    top: 450px;
+    margin-left: 200px;
+    height:50px;
+    width: 295px;
+    background-color: #06d271;
+    color: white;
+    position: absolute;
+}
+.Button{
+    margin-left: 20PX;
+    line-height: 50px;
+}
+.Button1{
+    margin-left: 40PX;
+    line-height: 50px;
+}
+h3{
+    font-family: Arial Black;
+    font-size: 12px;
+    top: 448px;
+    margin-left: 510px;
+    height:50px;
+    width: 210px;
+    background-color: #bcbcbc;
+    color: white;
+    position: absolute;
+}
+.YT{
+    margin-left: 660px;
+    top:475px;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+}
+h4{
+    font-family: Arial Black;
+    font-size: 12px;
+    top: 685px;
+    margin-left:100px;
+    height:180px;
+    width: 1160px;
+    background-color: #f1f5f8;
+    color: white;
+    position: absolute;
+}
+.M{
+    margin-left: 320px;
+    margin-top: 40px ;
+    font-size: 12px;
+    color: #adb0b3;
+    position: absolute;
+}
+p3{
+    font-family: Arial Black;
+    font-size: 10px;
+    top: 520px;
+    margin-left: 200px;
+    height:50px;
+    width: 295px;
+    color: #6c757c;
+    position: absolute;
+}
+.FeatureLogo{
+    width: 700px;
+    height: 60px;
+    margin-left: 310px;
+    margin-top: 90px ;
+    position: absolute;
+}
+h5{
+    font-size: 30px;
+    font-family: Arial;
+    color: #263b4b;
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 250px;
+}
+p4{
+    font-size: 11px;
+    font-family: Arial;
+    color: #adb0b3;
+    position: absolute;
+    margin-left: 425px;
+    margin-top: 310px;
+}
+p5{
+    font-size: 11px;
+    font-family: Arial;
+    color: #adb0b3;
+    position: absolute;
+    margin-left: 480px;
+    margin-top: 330px;
+}
+p6{
+    position: absolute;
+    font-size: 12px;
+    font-family: Arial Black;
+    color: #263b4b;
+    
+}
+.A{
+    margin-left:260px;
+    margin-top: 420px; 
+}
+.B{
+    margin-left:260px;
+    margin-top: 520px;
+}
+.C{
+    margin-left:260px;
+    margin-top: 620px;
+}
+p7{
+    position: absolute;
+    color: #adb0b3;
+    font-size: 11px;
+}
+.D{
+    margin-left:260px;
+    margin-top: 450px; 
+}
+.E{
+    margin-left:260px;
+    margin-top: 550px; 
+}
+.F{
+    margin-left:260px;
+    margin-top: 650px; 
+}
+.Platform{
+    height: 230px;
+    width: 600px;
+   position: absolute;
+   margin-left:660px;
+   margin-top: 430px;
+}
